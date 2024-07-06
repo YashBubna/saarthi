@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537802064341",
+    "project_id": "saarthi-cdbad",
+    "storage_bucket": "saarthi-cdbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537802064341:android:1fa3ea9f069e1030283d5c",
+        "android_client_info": {
+          "package_name": "com.example.saarthi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVcjkzkVvMgMj21W5GZM6YbBrqnTxs30w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
